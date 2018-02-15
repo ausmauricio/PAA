@@ -1,0 +1,26 @@
+- Redes 
+
+Zachary Karate Club (34 vertices)
+Heur: (0.00186991691589, 4)
+Exact: (0.396426916122, 4)
+Halin Graph (17 vertices)
+Heur: (0.000668048858643, 10)
+Exact: (2.493901968, 8)
+
+- Grid
+
+16
+Heur: (0.000468969345093, 7)
+Exact: (0.146741867065, 7)
+25
+Heur: (0.000949859619141, 11)
+Exact: (126.911394119, 11)
+
+- Clique
+
+- Path Graphs
+
+- Grafos Bipartidos
+
+- Trees
+-

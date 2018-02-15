@@ -1,0 +1,21 @@
+python create_dense_graphs4.py 1 500 > 1_in
+python create_dense_graphs4.py 1 1000 > 2_in
+python create_dense_graphs4.py 1 2000 > 3_in
+python create_dense_graphs4.py 1 3500 > 4_in
+python create_dense_graphs4.py 1 5000 > 5_in
+
+./run_dense.sh 1_in
+./run_dense.sh 1_in
+./run_dense.sh 2_in
+./run_dense.sh 2_in
+./run_dense.sh 3_in
+./run_dense.sh 3_in
+./run_dense.sh 4_in
+./run_dense.sh 4_in
+./run_dense.sh 5_in
+./run_dense.sh 5_in
+
+1000   0.166805028915
+2000   1.62054419518
+3500   6.54676508904
+5000   15.5653358936
